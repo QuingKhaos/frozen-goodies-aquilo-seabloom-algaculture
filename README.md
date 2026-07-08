@@ -13,8 +13,8 @@ Adds [frozen goodies](https://mods.factorio.com/mod/frozen-goodies) support to [
 - [Frozen Goodies Base Assets][base-assets] - Base assets to dynamically create frozen goodies with layers.
 - [Frozen Goodies for Wooden Fulgora: Coralmium Agriculture][fulgora-coralmium-agriculture] - Adds frozen goodies support
   to Coralmium Agriculture.
-- [Frozen Goodies for Lignumis][lignumis]: Adds frozen goodies support to Lignumis.
-- [Frozen Goodies Tweaks][tweaks]: Opinionated tweaks to Frozen Goodies.
+- [Frozen Goodies for Lignumis][lignumis] - Adds frozen goodies support to Lignumis.
+- [Frozen Goodies Tweaks][tweaks] - Opinionated tweaks to Frozen Goodies.
 
 [aquilo-seabloom-algaculture]: https://mods.factorio.com/mod/frozen-goodies-aquilo-seabloom-algaculture
 [base-assets]: https://mods.factorio.com/mod/frozen-goodies-base-assets
