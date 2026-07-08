@@ -1,12 +1,20 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "frozen-goodies-aquilo-seabloom-algaculture",
+  "title": "Frozen Goodies for Wooden Aquilo: Seabloom Algaculture",
+  "description": "Adds frozen goodies support to Seabloom Algaculture.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
-  ]
+    "base >= 2.0.77",
+
+    "khaoslib >= 1.4.1",
+
+    "frozen-goodies >= 0.0.1",
+    "frozen-goodies-base-assets >= 1.0.0",
+
+    "aquilo-seabloom-algaculture >= 0.4.4"
+  ],
+  "spoiling_required": true
 }
